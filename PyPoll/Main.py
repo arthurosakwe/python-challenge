@@ -8,7 +8,7 @@ file = os.path.join('ElectionData', 'Election_Data' + '.csv')
 #Create dictionary to be used for candidate name and vote count.
 poll = {}
 
-#The total number of votes cast
+#The total number of votes = 0
 total_votes = 0
 
 #get data file
